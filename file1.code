@@ -1,7 +1,4 @@
 #Sample line of Code
 System.println(Basic Stuff);
-<<<<<<< HEAD
 some more code
-=======
-a=b+c+d
->>>>>>> f55092bfeb5c84764488d40c23a254da246617fe
+a=b+c+d+e
